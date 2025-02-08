@@ -26,7 +26,7 @@ npm i
 #### Step 1: Navigate to the Frontend Directory
 
 ```bash
-npm
+npm i
 npm outdated
 npx npm-check-updates -u
 npm install --legacy-peer-deps
