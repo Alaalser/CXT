@@ -14,7 +14,7 @@ This project is a full-stack application with a Node.js backend and a Next.js fr
 Open your terminal and `cd` into the backend folder of the project.
 
 ```bash
-cd backend
+cd node-backend
 ```
 
 ```bash
